@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog!
-this is for testing
+title: Welcome to my blog! this is for testing
 ---
 
